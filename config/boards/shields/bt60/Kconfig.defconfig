@@ -1,0 +1,6 @@
+if SHIELD_BT60
+
+config ZMK_KEYBOARD_NAME
+    default "Trisse"
+
+    endif
