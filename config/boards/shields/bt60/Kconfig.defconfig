@@ -1,4 +1,4 @@
-if SHIELD_BT60
+if SHIELD_bt60
 
 config ZMK_KEYBOARD_NAME
     default "Trisse07"
