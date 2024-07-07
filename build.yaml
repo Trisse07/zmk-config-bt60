@@ -19,3 +19,4 @@
 ---
 include:
   - board: bt60_v2
+    shield: bt60
